@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ntt-assessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c39c38ff1fa5957dc9eda3617aeb4b8ce58a1728")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f66892fb6e1db121205d9f19c6e123be13d54a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ntt-assessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ntt-assessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
