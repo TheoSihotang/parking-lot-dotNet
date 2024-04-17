@@ -1,0 +1,16 @@
+C:\Users\theos\OneDrive\Documents\ntt-assessment\bin\Debug\net5.0\ntt-assessment.exe
+C:\Users\theos\OneDrive\Documents\ntt-assessment\bin\Debug\net5.0\ntt-assessment.deps.json
+C:\Users\theos\OneDrive\Documents\ntt-assessment\bin\Debug\net5.0\ntt-assessment.runtimeconfig.json
+C:\Users\theos\OneDrive\Documents\ntt-assessment\bin\Debug\net5.0\ntt-assessment.runtimeconfig.dev.json
+C:\Users\theos\OneDrive\Documents\ntt-assessment\bin\Debug\net5.0\ntt-assessment.dll
+C:\Users\theos\OneDrive\Documents\ntt-assessment\bin\Debug\net5.0\ntt-assessment.pdb
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.csproj.AssemblyReference.cache
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.AssemblyInfoInputs.cache
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.AssemblyInfo.cs
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.csproj.CoreCompileInputs.cache
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.dll
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ref\ntt-assessment.dll
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.pdb
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.genruntimeconfig.cache
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\refint\ntt-assessment.dll
