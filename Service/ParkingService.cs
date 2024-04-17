@@ -97,7 +97,6 @@ public class ParkingService : IParkingService
 
     public void Park(ParkingLot parkingLot)
     {
-        Console.WriteLine(_parkingLots.Length);
         for (var i = 0; i < _parkingLots.Length; i++)
         {
             if (_parkingLots[i] == null)

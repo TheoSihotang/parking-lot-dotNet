@@ -14,3 +14,4 @@ C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ref\ntt-assess
 C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.pdb
 C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.genruntimeconfig.cache
 C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\refint\ntt-assessment.dll
+C:\Users\theos\OneDrive\Documents\ntt-assessment\obj\Debug\net5.0\ntt-assessment.sourcelink.json
